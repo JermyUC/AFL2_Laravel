@@ -23,7 +23,7 @@ class PlantSeeder extends Seeder
             [
                 'name' => 'Pitcher Plant',
                 'family' => 'Nepenthaceae',
-                'image_url' => 'https://example.com/images/pitcher_plant.jpg',
+                'image_url' => 'images/pitcher.jpg',
                 'price' => 180000,
                 'stock' => 18,
 
@@ -31,7 +31,7 @@ class PlantSeeder extends Seeder
             [
                 'name' => 'Sundew',
                 'family' => 'Droseraceae',
-                'image_url' => 'https://example.com/images/sundew.jpg',
+                'image_url' => 'images/sundew.jpg',
                 'price' => 95000,
                 'stock' => 32,
 
@@ -39,14 +39,14 @@ class PlantSeeder extends Seeder
             [
                 'name' => 'Cobra Lily',
                 'family' => 'Sarraceniaceae',
-                'image_url' => 'https://example.com/images/cobra_lily.jpg',
+                'image_url' => 'images/cobra.jpg',
                 'price' => 210000,
                 'stock' => 12,
              ],
             [
                 'name' => 'Butterwort',
                 'family' => 'Lentibulariaceae',
-                'image_url' => 'https://example.com/images/butterwort.jpg',
+                'image_url' => 'images/butterwort.jpg',
                 'price' => 85000,
                 'stock' => 40,
 

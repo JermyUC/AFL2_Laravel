@@ -15,7 +15,7 @@
       <div class="container">
         <div class="d-flex justify-content-between align-items-center mb-4">
           <h2>Featured Plants</h2>
-          <a href="store.html" class="small">View all →</a>
+          <a href="{{ url('/store') }}" class="small">View all →</a>
         </div>
         <div class="row">
 
