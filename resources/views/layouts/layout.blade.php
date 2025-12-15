@@ -23,6 +23,7 @@
           <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">Home</a></li>
           <li class="nav-item '' }}"><a class="nav-link" href="{{ url('/store') }}">Store</a></li>
           <li class="nav-item '' }}"><a class="nav-link" href="{{ url('/guide') }}">Guide</a></li>
+          <li class="nav-item '' }}"><a class="nav-link" href="{{ url('/blogs') }}">Blog</a></li>
           <li class="nav-item "><a class="nav-link" href="{{ url('/about') }}">About Us</a></li>
         </ul>
       </div>
